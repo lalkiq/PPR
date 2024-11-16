@@ -15,7 +15,7 @@
 }
 
 .navigation {
-  font-family: "Roboto";
+  
   display: inline-block;
   padding-top: 5px;
   vertical-align: top;
@@ -34,6 +34,7 @@
 }
 
 .email-head {
+  font-family: "Roboto";
   display: inline-block;
   vertical-align: top;
   padding-top: 5px;
@@ -41,7 +42,7 @@
 }
 
 .phone-number {
-  font-family: "Roboto";
+  
   display: inline-block;
   vertical-align: top;
   padding-top: 5px;
