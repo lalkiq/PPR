@@ -15,6 +15,7 @@
 }
 
 .navigation {
+  font-family: "Roboto";
   display: inline-block;
   padding-top: 5px;
   vertical-align: top;
@@ -40,6 +41,7 @@
 }
 
 .phone-number {
+  font-family: "Roboto";
   display: inline-block;
   vertical-align: top;
   padding-top: 5px;
